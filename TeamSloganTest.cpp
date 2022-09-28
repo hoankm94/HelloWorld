@@ -43,5 +43,6 @@ int main()
         a.code();
         a.sleep();
     }
+    cout << "123";
     return 0;
 }
