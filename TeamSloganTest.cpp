@@ -11,6 +11,10 @@ public:
     {
         alive = 1;
     }
+    human(bool alive)
+    {
+        this->alive = alive;
+    }
     bool getStatus()
     {
         return alive;
