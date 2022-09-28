@@ -11,6 +11,10 @@ public:
     {
         alive = 1;
     }
+    bool getStatus()
+    {
+        return alive;
+    }
     void eat()
     {
         cout << "Eating." << endl;
@@ -27,6 +31,12 @@ public:
 
 int main()
 {
-
+    human a;
+    while (a.getStatus() == 1)
+    {
+        a.eat();
+        a.code();
+        a.sleep();
+    }
     return 0;
 }
