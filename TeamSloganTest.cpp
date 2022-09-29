@@ -42,11 +42,6 @@ int main()
         a.eat();
         a.code();
         a.sleep();
-        cout << "Added random line" << endl;
-
-        cout << "Duy Anh gay";
-
-        cout << "Added cout line to create conflict" << endl;
     }
     return 0;
 }
