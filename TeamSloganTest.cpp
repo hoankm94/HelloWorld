@@ -32,6 +32,7 @@ public:
     {
         cout << "Sleeping." << endl;
     }
+    cout << "Im very gay" << endl;
 };
 
 int main()
