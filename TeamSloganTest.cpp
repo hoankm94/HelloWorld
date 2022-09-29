@@ -42,8 +42,6 @@ int main()
         a.eat();
         a.code();
         a.sleep();
-        cout << "My name A little bit Gay";
     }
-    cout << "Dai di cung duoc";
     return 0;
 }
