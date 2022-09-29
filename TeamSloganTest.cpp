@@ -11,7 +11,7 @@ public:
     {
         alive = 1;
     }
-    ~human() {};
+    ~human(){};
     human(bool alive)
     {
         this->alive = alive;
@@ -42,6 +42,7 @@ int main()
         a.eat();
         a.code();
         a.sleep();
+        cout << "My name Very Gay";
     }
     return 0;
 }
