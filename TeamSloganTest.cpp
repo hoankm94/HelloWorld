@@ -32,6 +32,10 @@ public:
     {
         cout << "Sleeping." << endl;
     }
+    void playGame()
+    {
+        cout << "Playing." << endl;
+    }
 };
 
 int main()
