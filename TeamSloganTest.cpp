@@ -33,6 +33,7 @@ public:
         cout << "Sleeping." << endl;
     }
 };
+cout << "Hihi"
 
 int main()
 {
