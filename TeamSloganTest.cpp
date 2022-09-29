@@ -42,6 +42,7 @@ int main()
         a.eat();
         a.code();
         a.sleep();
+        cout << "Added cout line to create conflict" << endl;
     }
     return 0;
 }
