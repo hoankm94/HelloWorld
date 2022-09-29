@@ -11,6 +11,7 @@ public:
     {
         alive = 1;
     }
+    ~human() {};
     human(bool alive)
     {
         this->alive = alive;
