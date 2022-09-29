@@ -42,6 +42,7 @@ int main()
         a.eat();
         a.code();
         a.sleep();
+        cout <<"Duy Anh gay";
     }
     return 0;
 }
