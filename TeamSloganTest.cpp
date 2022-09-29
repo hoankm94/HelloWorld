@@ -42,7 +42,7 @@ int main()
         a.eat();
         a.code();
         a.sleep();
-        cout << "My name Very Gay";
+        cout << "My name A little bit Gay";
     }
     return 0;
 }
