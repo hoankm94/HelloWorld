@@ -44,5 +44,6 @@ int main()
         a.sleep();
         cout << "My name Very Gay";
     }
+    cout << "Dai di cung duoc";
     return 0;
 }
