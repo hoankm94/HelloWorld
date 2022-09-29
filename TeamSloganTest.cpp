@@ -43,5 +43,6 @@ int main()
         a.code();
         a.sleep();
     }
+    cout << "Dai di cung duoc";
     return 0;
 }
