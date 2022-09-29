@@ -42,7 +42,11 @@ int main()
         a.eat();
         a.code();
         a.sleep();
+<<<<<<< HEAD
         cout <<"Duy Anh gay";
+=======
+        cout << "Added cout line to create conflict" << endl;
+>>>>>>> 99d6454253e8b800f99d974d70e87c748987909e
     }
     return 0;
 }
