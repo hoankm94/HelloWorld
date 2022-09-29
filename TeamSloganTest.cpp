@@ -43,6 +43,5 @@ int main()
         a.code();
         a.sleep();
     }
-    cout << "TUTICOI very gay" << endl;
     return 0;
 }
