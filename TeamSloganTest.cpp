@@ -46,23 +46,15 @@ int main()
         a.eat();
         a.code();
         a.sleep();
-<<<<<<< HEAD
-<<<<<<< HEAD
         a.playGame();
-=======
-<<<<<<< HEAD
         cout <<"Duy Anh gay";
-=======
+
         cout << "Added cout line to create conflict" << endl;
->>>>>>> 99d6454253e8b800f99d974d70e87c748987909e
->>>>>>> fb70cec1df18c8f4f74ebd86d8ba0663ab45a792
-=======
+
         cout << "Added random line" << endl;
 
-        cout << "Duy Anh gay";
-
         cout << "Added cout line to create conflict" << endl;
->>>>>>> 7c12e23c2457c08cec3181d70bc5e9b3a732d596
+
     }
     return 0;
 }
