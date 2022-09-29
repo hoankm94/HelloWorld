@@ -32,7 +32,6 @@ public:
     {
         cout << "Sleeping." << endl;
     }
-    cout << "Im very gay" << endl;
 };
 
 int main()
@@ -44,5 +43,6 @@ int main()
         a.code();
         a.sleep();
     }
+    cout << "TUTICOI very gay" << endl;
     return 0;
 }
