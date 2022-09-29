@@ -42,7 +42,15 @@ int main()
         a.eat();
         a.code();
         a.sleep();
+<<<<<<< HEAD
         cout << "Added random line" << endl;
+=======
+<<<<<<< HEAD
+        cout <<"Duy Anh gay";
+=======
+        cout << "Added cout line to create conflict" << endl;
+>>>>>>> 99d6454253e8b800f99d974d70e87c748987909e
+>>>>>>> fb70cec1df18c8f4f74ebd86d8ba0663ab45a792
     }
     return 0;
 }
