@@ -43,6 +43,7 @@ int main()
         a.eat();
         a.code();
         a.sleep();
+        cout << "12e2";
     }
     return 0;
 }
