@@ -42,6 +42,7 @@ int main()
         a.eat();
         a.code();
         a.sleep();
+        cout << "12e2";
     }
     cout << "123";
     return 0;
