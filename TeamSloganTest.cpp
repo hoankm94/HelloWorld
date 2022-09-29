@@ -42,7 +42,7 @@ int main()
         a.eat();
         a.code();
         a.sleep();
-        cout << "Added cout line to create conflict" << endl;
+        cout << "Added random line" << endl;
     }
     return 0;
 }
