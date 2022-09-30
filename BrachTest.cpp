@@ -8,4 +8,3 @@ int main()
     cout << "git checkout -b >name new branch";
     return 0;
 }
-ditmemay
